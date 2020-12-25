@@ -1,0 +1,2 @@
+C is a powerful general-purpose programming language.
+C is a mother language
